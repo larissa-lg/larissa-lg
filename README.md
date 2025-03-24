@@ -53,10 +53,6 @@ Me chamo Larissa Galdino, tenho 25 anos e sou natural de João Pessoa, Paraíba.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="30" alt="jenkins logo"  />
 </div>
 
-### 🚀 Progesso de projetos
-
-<img src="https://raw.githubusercontent.com/larissa-lg/larissa-lg/output/snake.svg" alt="Snake animation" />
-
 ### 🎧 Playlist
 
 <div align="center">
