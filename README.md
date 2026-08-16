@@ -4,7 +4,7 @@
 
 **`Analista Devops`**
 
-Me chamo Larissa Galdino, tenho 25 anos e sou natural de João Pessoa, Paraíba. Atualmente, estou cursando Redes de Computadores no IFPB. Sou apaixonada por tecnologia e estou me especializando na área de infraestrutura e DevOps. No meu tempo livre, estudo sobre redes, orquestração de containers, computação em nuvem e cibersegurança, além de aprofundar meus conhecimentos em migração de bancos de dados e ferramentas como Prometheus e Grafana. Também estou retomando os estudos em programação, buscando ampliar ainda mais minhas habilidades na área.</p>
+Me chamo Larissa Galdino, tenho 28 anos e sou natural de João Pessoa, Paraíba. Atualmente, estou cursando Redes de Computadores na Unipê. Sou apaixonada por tecnologia e estou me especializando na área de infraestrutura e DevOps. No meu tempo livre, estudo sobre redes, orquestração de containers, computação em nuvem e cibersegurança, além de aprofundar meus conhecimentos em migração de bancos de dados e ferramentas como Prometheus e Grafana. Também estou retomando os estudos em programação, buscando ampliar ainda mais minhas habilidades na área.</p>
 
 ###
 
